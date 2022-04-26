@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, sans-serif;
+}
+
+.Ab {
+  background-color: #ceddeb;
+  border-width: 100px;
+  border-radius: .5rem;
+  margin-left: 30px;
+  padding: 30px 530px;
+  display: inline-flex;
+}
+
+.Ab h2 {
+  margin-top: 3px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.Ab div {
+  background-color: #0ff;
+  border-radius: .5rem;
+  place-content: center;
+  margin: 5px 10px 10px 970px;
+}
+
+.AB i {
+  shape-image-threshold: var(30px);
+  margin-top: 10px;
+  margin-left: 1100px;
+  margin-right: 10px;
+  padding: 15px;
+  font-size: 1.875rem;
+}
+
+.form-control label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.AB {
+  border-radius: 2em;
+  margin-top: 20px;
+  margin-left: 70px;
+}
+
+.form-control input, .form-control textarea {
+  width: 95%;
+  background-color: #8383f7;
+  border: 1px solid #faf8f8;
+  border-radius: 3px;
+  padding: 30px;
+  display: block;
+}
+
+.icon {
+  background-color: #f0f8ff;
+  border-radius: 3em;
+  margin-top: 10px;
+  margin-left: 45px;
+  margin-right: 40px;
+}
+
+.icon div {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-left: 150px;
+}
+
+.icon div div i {
+  margin-right: 15px;
+}
+
+.icon table tr td {
+  display: inline-flex;
+}
+
+/*# sourceMappingURL=icon.dbaab4ab.css.map */

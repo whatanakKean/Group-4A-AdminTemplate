@@ -1,0 +1,167 @@
+body {
+  text-align: center;
+  background-color: #aec4ba;
+  font-family: Verdana;
+}
+
+form {
+  max-width: 500px;
+  background-color: #fff;
+  margin: 50px auto;
+  padding: 30px 20px;
+  box-shadow: 2px 5px 10px #00000080;
+}
+
+.form-control {
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+.form-control label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.form-control input, .form-control textarea {
+  width: 95%;
+  border: 1px solid #777;
+  border-radius: 2px;
+  padding: 10px;
+  font-family: inherit;
+  display: block;
+}
+
+.forminline {
+  display: inline-flex;
+}
+
+.forminline div {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.P {
+  width: 50%;
+  background-color: #3b47e6;
+  border: 1px solid #777;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+}
+
+button {
+  width: 100%;
+  background-color: #05c46b;
+  border: 1px solid #777;
+  border-radius: 2px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+}
+
+.form1 {
+  background-color: #fff;
+  border-radius: .8em;
+  padding: 50px 300px;
+  box-shadow: 4px 10px 20px #00000080;
+}
+
+.form-control1 {
+  margin-bottom: 25px;
+}
+
+.form-control1 label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.form-control1 input, .form-control1 textarea {
+  width: 100%;
+  border: 1px solid #777;
+  border-radius: 2px;
+  padding: 10px;
+  font-family: inherit;
+  display: block;
+}
+
+.A {
+  width: 100%;
+  background-color: #47a75f;
+  border: 1px solid #777;
+  border-radius: 2px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+}
+
+.B {
+  width: 100%;
+  background-color: #cfb540;
+  border: 1px solid #777;
+  border-radius: 2px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+}
+
+.form2 {
+  background-color: #fff;
+  border-radius: .8em;
+  margin: 10px auto;
+  padding: 50px 400px;
+  box-shadow: 4px 10px 20px #00000080;
+}
+
+.form-control2 {
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+.form-control2 label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.form-control2 input, .form-control2 textarea {
+  width: 100%;
+  border: 1px solid #777;
+  border-radius: 2px;
+  padding: 10px;
+  font-family: inherit;
+  display: block;
+}
+
+.C {
+  width: 50%;
+  background-color: #29f85d;
+  border: 1px solid #777;
+  border-radius: 8px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+}
+
+.D {
+  width: 50%;
+  background-color: #f5212c;
+  border: 1px solid #777;
+  border-radius: 8px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+}
+
+/*# sourceMappingURL=form.50c62fdb.css.map */
